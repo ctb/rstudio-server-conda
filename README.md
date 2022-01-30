@@ -29,7 +29,7 @@ The conda environment gets mounted into the container - like that there's no nee
  1. Clone this repository
 
     ```bash
-    git clone git@github.com:grst/rstudio-server-conda.git
+    git clone https://github.com/grst/rstudio-server-conda.git
     cd rstudio-server-conda/singularity
     ```
    
